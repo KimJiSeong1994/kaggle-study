@@ -5,8 +5,12 @@
 ## 2nd Agenda
 
 <table>
-  <th>Date</th>
-  <th>Description</th>
-  <tb>Tue 19</tb>
-  <tb></tb>
+  <tr>
+    <th>Date</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <tb>Tue 19</tb>
+    <tb></tb>
+  </tr>
 </table>
