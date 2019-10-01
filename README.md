@@ -8,13 +8,16 @@
   <tr>
     <th>Date</th>
     <th>Description</th>
+    <th>Assignment</th>
   </tr>
   <tr>
     <td>Monday<br>September 30</td>
-    <td>Orientation</td>
+    <td><b>Introduction</b><br>Orientation</td>
+    <td></td>
   </tr>
   <tr>
     <td>Monday<br>October 7</td>
-    <td>Orientation</td>
+    <td><b>Interested Dataset</b><br>Orientation</td>
+    <td></td>
   </tr>
 </table>
