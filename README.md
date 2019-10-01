@@ -10,7 +10,11 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>Monday Sep. 19</td>
+    <td>Monday<br>September 30</td>
+    <td>Orientation</td>
+  </tr>
+  <tr>
+    <td>Monday<br>October 7</td>
     <td>Orientation</td>
   </tr>
 </table>
