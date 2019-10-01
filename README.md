@@ -4,7 +4,7 @@
 
 ## 2nd Agenda
 
-<table>
+<table style="width: 90%">
   <tr>
     <th>Date</th>
     <th>Description</th>
