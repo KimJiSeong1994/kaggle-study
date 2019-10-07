@@ -1,6 +1,6 @@
 # kaggle
 
-<center><img src="kaggle_korea.jpg" style="width: 50%;" /></center>
+<center><img src="kaggle_korea.jpg" style="width: 30%;" /></center>
 
 ## `캐글 코리아` 공식 창원지역 스터디 그룹
 
