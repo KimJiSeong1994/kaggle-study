@@ -11,12 +11,7 @@
 
 ## 두 번째 지역모임
 
-**참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>,
-<a href="">서정훈</a>,
-<a href="https://github.com/sun6880">선주은</a>,
-<a href="https://github.com/Song-bosun">송보선</a>,
-<a href="https://github.com/syj706">신영준</a>,
-<a href="https://github.com/Imchul">임철</a>
+**참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>, <a href="">서정훈</a>, <a href="https://github.com/sun6880">선주은</a>, <a href="https://github.com/Song-bosun">송보선</a>, <a href="https://github.com/syj706">신영준</a>, <a href="https://github.com/Imchul">임철</a>
 
 <table>
   <tr>
