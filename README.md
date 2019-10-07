@@ -7,6 +7,8 @@
 <a href="https://www.facebook.com/groups/KaggleKoreaOpenGroup/"><b>캐글 코리아 페이스북</b></a><br>
 **Note: No official relationship with `Kaggle`**
 
+<a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/materials/materials.md" target="_blank">볼만한 자료 공유</a>
+
 ## 첫 번째 지역모임(종료)
 
 ## 두 번째 지역모임
@@ -32,7 +34,7 @@
     <td>Oct. 7</td>
     <td><b>관심있는 분야 및 데이터셋 정보공유</b><br>모임에 참석하시는 분들의 관심분야가 각자 다르기 때문에<br>관심있는 분야 또는 데이터셋을 조사하여 발표</td>
     <td>
-      <a href="">강경수</a>,
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/unerue.pdf">강경수</a>,
       <a href="">김지성</a>,
       <a href="">서정훈</a>,
       <a href="">선주은</a>,<br>
