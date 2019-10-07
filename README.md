@@ -16,10 +16,10 @@
 **참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>, <a href="">서정훈</a>, <a href="https://github.com/sun6880">선주은</a>, <a href="https://github.com/Song-bosun">송보선</a>, <a href="https://github.com/syj706">신영준</a>, <a href="https://github.com/Imchul">임철</a>
 
 <table>
-  <col width="10%" />
-  <col width="50%" />
+  <col width="15%" />
+  <col width="40%" />
   <col width="30%" />
-  <col width="10%" />
+  <col width="15%" />
   <tr>
     <th>날짜</th>
     <th>설명</th>    
@@ -40,7 +40,7 @@
     <td>
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/unerue.pdf">강경수</a>,
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/KimJiSeong1994.key">김지성</a>,
-      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/sun6880.pptx">선주은</a>,<br>
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/sun6880.pptx">선주은</a>,
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/Song-bosun.pptx">송보선</a>,
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/syj706.pptx">신영준</a>,
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/">임철</a>
