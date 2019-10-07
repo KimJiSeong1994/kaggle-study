@@ -1,6 +1,6 @@
 # kaggle
 
-<center><img src="kaggle_korea.jpg" style="width: 60%;" /></center>
+<center><img src="kaggle_korea.jpg" style="width: 50%;" /></center>
 
 ## `캐글 코리아` 공식 창원지역 스터디 그룹
 
@@ -39,7 +39,7 @@
     <td>
       <a href="">강경수</a>,
       <a href="">김지성</a>,
-      <a href="">임철</a>,
+      <a href="">임철</a>,<br>
       <a href="">서정훈</a>,
       <a href="">선주은</a>,
       <a href="">송보선</a>,
