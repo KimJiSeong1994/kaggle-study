@@ -1,6 +1,6 @@
 # kaggle-study
 
-<center><img src="logo.jpg" style="height: 50%" /></center>
+<center><img src="logo.png" style="height: 50%" /></center>
 
 ## `캐글 코리아` 창원지역 스터디 그룹
 
