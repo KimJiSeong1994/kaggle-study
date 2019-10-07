@@ -35,12 +35,11 @@
     <td><b>관심있는 분야 및 데이터셋 정보공유</b><br>모임에 참석하시는 분들의 관심분야가 각자 다르기 때문에<br>관심있는 분야 또는 데이터셋을 조사하여 발표</td>
     <td>
       <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/unerue.pdf">강경수</a>,
-      <a href="">김지성</a>,
-      <a href="">서정훈</a>,
-      <a href="">선주은</a>,<br>
-      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/Song-bosun.pdf">송보선</a>,
-      <a href="">신영준</a>,
-      <a href="">임철</a>
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/KimJiSeong1994.key">김지성</a>,
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/sun6880.pptx">선주은</a>,<br>
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/Song-bosun.pptx">송보선</a>,
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/syj706.pptx">신영준</a>,
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/">임철</a>
     </td>
     <td align="center">온라인<br>(행아웃)</td>
   </tr>
