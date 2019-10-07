@@ -38,7 +38,7 @@
       <a href="">김지성</a>,
       <a href="">서정훈</a>,
       <a href="">선주은</a>,<br>
-      <a href="">송보선</a>,
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-10-07/Song-bosun.pdf">송보선</a>,
       <a href="">신영준</a>,
       <a href="">임철</a>
     </td>
