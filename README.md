@@ -1,4 +1,4 @@
-# kaggle
+# kaggle-study
 
 <center><img src="logo.jpg" style="width: 300px;" /></center>
 
