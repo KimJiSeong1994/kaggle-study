@@ -18,7 +18,7 @@
 <a href="https://github.com/Song-bosun">송보선</a>,
 <a href="https://github.com/syj706">신영준</a>
 
-<table style="width: 90%">
+<table style="width: 100%">
   <tr>
     <th>날짜</th>
     <th>설명</th>    
