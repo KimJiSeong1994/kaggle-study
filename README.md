@@ -16,10 +16,10 @@
 **참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>, <a href="">서정훈</a>, <a href="https://github.com/sun6880">선주은</a>, <a href="https://github.com/Song-bosun">송보선</a>, <a href="https://github.com/syj706">신영준</a>, <a href="https://github.com/Imchul">임철</a>
 
 <table width="100%">
-  <col width="15%" />
-  <col width="40%" />
-  <col width="30%" />
-  <col width="15%" />
+  <col width="20%" />
+  <col width="35%" />
+  <col width="25%" />
+  <col width="20%" />
   <tr>
     <th>날짜</th>
     <th>설명</th>    
