@@ -29,7 +29,7 @@
     <td>Sep. 30</td>
     <td><b>소개 및 계획</b><br>캐글 코리아 지역스터디 및 참여인원 소개</td>
     <td>
-      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle/2019-09-30/kaggle-orientation.pdf">강경수</a>
+      <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/2019-09-30/kaggle-orientation.pdf">강경수</a>
     </td>
     <td align="center">온라인<br>(행아웃)</td>
   </tr>
