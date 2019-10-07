@@ -39,7 +39,7 @@
       <a href="">서정훈</a>,
       <a href="">선주은</a>,<br>
       <a href="">송보선</a>,
-      <a href="">신영준</a>
+      <a href="">신영준</a>,
       <a href="">임철</a>
     </td>
     <td align="center">온라인<br>(행아웃)</td>
