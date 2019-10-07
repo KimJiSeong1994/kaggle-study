@@ -1,6 +1,6 @@
 # kaggle-study
 
-<center><img src="logo.jpg" style="width: 300px;" /></center>
+<center><img src="logo.jpg" style="width: 200px;" /></center>
 
 ## `캐글 코리아` 창원지역 스터디 그룹
 
@@ -45,6 +45,21 @@
   </tr>
   <tr>
     <td>Oct. 14</td>
+    <td><b>첫 번째 관심 데이터 발표: 데이터 분석</b><br>
+      <ul>
+        <li>강경수: Toxic Comment Classification Challenge</li>
+        <li>서정훈: </li>
+        <li>선주은: </li>
+        <li>송보선: </li>
+        <li>신영준: </li>
+        <li>임철: </li>
+      </ul>
+    </td>
+    <td></td>
+    <td align="center">온라인<br>(행아웃)</td>
+  </tr>
+  <tr>
+    <td></td>
     <td><b>예정</b><br></td>
     <td></td>
     <td align="center">온라인<br>(행아웃)</td>
