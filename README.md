@@ -1,8 +1,8 @@
 # kaggle
 
-<center><img src="kaggle_korea.jpg" style="width: 30%;" /></center>
+<center><img src="kaggle_korea.jpg" style="width: 20%;" /></center>
 
-## `캐글 코리아` 공식 창원지역 스터디 그룹
+## `캐글 코리아` 창원지역 스터디 그룹
 
 <a href="https://www.facebook.com/groups/KaggleKoreaOpenGroup/"><b>캐글 코리아 페이스북</b></a><br>
 **Note: No official relationship with `Kaggle`**
