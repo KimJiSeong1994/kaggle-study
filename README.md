@@ -31,7 +31,7 @@
     <td>
       <a href="">강경수</a>
     </td>
-    <td>온라인<br>(행아웃)</td>
+    <td align="center">온라인<br>(행아웃)</td>
   </tr>
   <tr>
     <td>Oct. 7</td>
@@ -45,12 +45,12 @@
       <a href="">송보선</a>,
       <a href="">신영준</a>
     </td>
-    <td>온라인<br>(행아웃)</td>
+    <td align="center">온라인<br>(행아웃)</td>
   </tr>
   <tr>
     <td>Oct. 14</td>
     <td><b>예정</b><br></td>
     <td></td>
-    <td>온라인<br>(행아웃)</td>
+    <td align="center">온라인<br>(행아웃)</td>
   </tr>
 </table>
