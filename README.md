@@ -4,10 +4,10 @@
 
 ## `캐글 코리아` 창원지역 스터디 그룹
 
-<a href="https://www.facebook.com/groups/KaggleKoreaOpenGroup/"><b>캐글 코리아 페이스북</b></a><br>
+### <a href="https://www.facebook.com/groups/KaggleKoreaOpenGroup/"><b>캐글 코리아 페이스북</b></a><br>
 **Note: No official relationship with `Kaggle`**
 
-<a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/materials/materials.md" target="_blank">볼만한 자료 공유</a>
+### <a href="https://github.com/unerue/kaggle-study/blob/master/kaggle-study/materials/materials.md" target="_blank">볼만한 자료 공유</a>
 
 ## 첫 번째 지역모임(종료)
 
