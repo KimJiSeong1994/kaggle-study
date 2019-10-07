@@ -8,7 +8,7 @@
 **Note: No official relationship with `Kaggle`**
 
 ## 첫 번째 지역모임(종료)
----
+
 ## 두 번째 지역모임
 
 **참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>,
@@ -22,17 +22,19 @@
   <tr>
     <th>날짜</th>
     <th>설명</th>    
-    <th>과제</th>
+    <th>자료</th>
     <th>비고</th>
   </tr>
   <tr>
-    <td>Monday<br>Sep. 30</td>
+    <td>Sep. 30</td>
     <td><b>소개 및 계획</b><br>캐글 코리아 지역스터디 및 참여인원 소개</td>
-    <td></td>
+    <td>
+      <a href="">강경수</a>
+    </td>
     <td>온라인(행아웃)</td>
   </tr>
   <tr>
-    <td>Monday<br>Oct. 7</td>
+    <td>Oct. 7</td>
     <td><b>관심있는 분야 및 데이터셋 정보공유</b><br>모임에 참석하시는 분들의 관심분야가 각자 다르기 때문에 관심있는 분야 또는 데이터셋을 조사하여 관심사 공유</td>
     <td>
       <a href="">강경수</a>,
@@ -46,8 +48,8 @@
     <td>온라인(행아웃)</td>
   </tr>
   <tr>
-    <td>Monday<br>Oct. 14</td>
-    <td><b></b><br></td>
+    <td>Oct. 14</td>
+    <td><b>예정</b><br></td>
     <td></td>
     <td>온라인(행아웃)</td>
   </tr>
