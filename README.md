@@ -1,6 +1,6 @@
 # kaggle-study
 
-<center><img src="logo.png" width="450" /></center>
+<img src="logo.png" width="450" />
 
 ## `캐글 코리아` 창원지역 스터디 그룹
 
@@ -16,15 +16,11 @@
 **참여인원**: <a href="https://github.com/KimJiSeong1994">김지성</a>, <a href="">서정훈</a>, <a href="https://github.com/sun6880">선주은</a>, <a href="https://github.com/Song-bosun">송보선</a>, <a href="https://github.com/syj706">신영준</a>, <a href="https://github.com/Imchul">임철</a>
 
 <table style="table-layout: fixed; width: 100%">
-  <col width="20%" />
-  <col width="35%" />
-  <col width="25%" />
-  <col width="20%" />
   <tr>
-    <th>날짜</th>
-    <th>설명</th>    
-    <th>자료</th>
-    <th>비고</th>
+    <th style="width: 15%;">날짜</th>
+    <th style="width: 45%;">설명</th>    
+    <th style="width: 25%;">자료</th>
+    <th style="width: 15%;">비고</th>
   </tr>
   <tr>
     <td>Sep. 30</td>
