@@ -58,9 +58,8 @@
   <tr>
     <td colspan=5>
       <p><b>캐글 스터디 방향성 변경 안내 사항</b></p>
-      <b>- 캐글 승자 솔루션 분석</b><br>
-      <a href="https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions">Winning solutions of kaggle competitions</a>에서 관심있는 솔루션을 하나 선택하여 그 우승자들의 노하우와 아이디어를 정리하고 발표<br>
-      <br>
+      <p><b>- 캐글 승자 솔루션 분석</b><br>
+      <a href="https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions">Winning solutions of kaggle competitions</a>에서 관심있는 솔루션을 하나 선택하여 그 우승자들의 노하우와 아이디어를 정리하고 발표</p>
       <p><b>- 캐글 입문 데이터 분석 및 모형 구축</b><br>
       첫 번째: <a href="https://www.kaggle.com/c/titanic">Titanic: Machine Learning from Disaster</a><br>
       두 번째: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">
