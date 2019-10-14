@@ -61,12 +61,12 @@
       <b>- 캐글 승자 솔루션 분석</b><br>
       <a href="https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions">Winning solutions of kaggle competitions</a>에서 관심있는 솔루션을 하나 선택하여 그 우승자들의 노하우와 아이디어를 정리하고 발표<br>
       <br>
-      <b>- 캐글 입문 데이터 분석 및 모형 구축</b><br>
+      <p><b>- 캐글 입문 데이터 분석 및 모형 구축</b><br>
       첫 번째: <a href="https://www.kaggle.com/c/titanic">Titanic: Machine Learning from Disaster</a><br>
       두 번째: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">
 House Prices: Advanced Regression Techniques</a><br>
       세 번째: <a href="https://www.kaggle.com/c/digit-recognizer">Digit Recognizer</a><br>
-      네 번째: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Bag of Words Meets Bags of Popcorn</a><br>
+      네 번째: <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Bag of Words Meets Bags of Popcorn</a><br></p>
       <p>두 가지 주제 중 하나를 선택해서 매주 발표해야 합니다. <b>캐글 승자 솔루션 분석</b>을 선택하신 분들은 간단하게 PT를 준비하셔서 발표하시면 되겠습니다.</p>
       <p><b>데이터 분석 및 모형 구축</b>은 주피터 노트북, 캐글 커널, R마크다운 등과 같이 자신의 데이터 분석 과정을 위한 코딩과 순차적인 진행 과정을 보여줄 수 있는 것으로 발표를 하셔야 합니다.</p>
       <p>두 가지 주제 중 하나를 선택하는 기준은 다음과 같습니다. <b>캐글</b>과 <b>데이터 분석</b>이라는 것이 아예 처음이신 분들은 두 번째 주제를 선택해서 준비해주시고, 이미 데이터 분석, 머신러닝, 딥러닝 등을 조금이라도 아시는 분들은 첫 번째 주제를 선택해서 발표해주시기 바랍니다. 강요는 아니니 편한거 하나를 선택해서 발표해주세요. :)</p>
