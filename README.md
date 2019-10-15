@@ -1,3 +1,5 @@
+<img alt="Version" src="https://img.shields.io/badge/Version-0.1b-yellow.svg" /> <img alt="Changwon Kaggle Study" src="https://img.shields.io/badge/Created%20by-Changwon Kaggle Study-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
+
 # kaggle-study
 
 <img src="logo.png" width="200" />
